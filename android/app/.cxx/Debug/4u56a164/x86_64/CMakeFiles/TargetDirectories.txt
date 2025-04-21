@@ -1,0 +1,2 @@
+C:/Users/MSI/Desktop/GL4/PFA/chatbot local/Llama-Local-Chat/android/app/.cxx/Debug/4u56a164/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/MSI/Desktop/GL4/PFA/chatbot local/Llama-Local-Chat/android/app/.cxx/Debug/4u56a164/x86_64/CMakeFiles/rebuild_cache.dir
